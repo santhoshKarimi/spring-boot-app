@@ -2,7 +2,7 @@ package com.spring.boot.app.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//This Resister the class
+//This is Register the class spring container
 @SpringBootApplication
 public class SpringBootAppProjectApplication {
 
